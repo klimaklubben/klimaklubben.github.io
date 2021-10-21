@@ -1,12 +1,11 @@
-
-<img src="./filer/logo.png" alt="logo" width="200" height="200">
-
-#### Barnas nøkkel til en grønn fremtid! 
+<p align="center">
+  <img src="./filer/logo.png" alt="logo" width="200" height="200">
+</p>
 
 _Denne nettsiden er under utvikling._
 
 
-Her finner du informasjon om Klimaklubben: 
+#### Her finner du informasjon om Klimaklubben: 
 
 [Klimaklubben - presentasjon for barn](./filer/presentasjon_for_barn.pdf)
 
