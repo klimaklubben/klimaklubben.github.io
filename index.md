@@ -1,10 +1,10 @@
-## Klimaklubben.no
 
-<img src="./filer/logo.png" alt="logo" width="100" height="100">
+<img src="./filer/logo.png" alt="logo" width="200" height="200">
 
 #### Barnas nøkkel til en grønn fremtid! 
 
 _Denne nettsiden er under utvikling._
+
 
 Her finner du informasjon om Klimaklubben: 
 
