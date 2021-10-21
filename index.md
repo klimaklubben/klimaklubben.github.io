@@ -2,11 +2,12 @@
 
 #### Barnas nøkkel til en grønn fremtid! 
 
-Denne nettsiden er under utvikling. Her finner du informasjon om Klimaklubben: 
+_Denne nettsiden er under utvikling._
 
-[Klimaklubben - presentasjon for barn](https://docs.google.com/presentation/d/1J0jXXLBaZT9DCbCDvLpXFcFNiwS11dnv2faG--vhsEY/edit?usp=sharing)
+Her finner du informasjon om Klimaklubben: 
 
-[Klimaklubben - presentasjon samarbeidspartnere og støttespillere](https://docs.google.com/presentation/d/1ATFmZnrYhvHZNr2445DlpINZrQpTOOlDliANKhFsYHs/edit?usp=sharing)
+[Klimaklubben - presentasjon for barn](./filer/presentasjon_for_barn.pdf)
 
-[Klimaklubben - presentasjon elever og foreldre på Landås skole](https://docs.google.com/presentation/d/1GfO_LZM7xX26skUzMzjjK3lpbIKMbCTqRCwIfMVtVig/edit?usp=sharing)
-[PDF](./filer/elever_og_foreldre.pdf)
+[Klimaklubben - presentasjon samarbeidspartnere og støttespillere](./filer/presentasjon_for_samarbeidspartnere_og_stoettespillere.pdf)
+
+[Klimaklubben - presentasjon elever og foreldre på Landås skole](./filer/presentasjon_for_elever_og_foreldre_paa_landaas_skole.pdf)
