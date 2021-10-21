@@ -1,5 +1,7 @@
 ## Klimaklubben.no
 
+![Klimaklubben logo](./filer/logo.png)
+
 #### Barnas nøkkel til en grønn fremtid! 
 
 _Denne nettsiden er under utvikling._
