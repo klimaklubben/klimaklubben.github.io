@@ -12,6 +12,8 @@
 
 [Klimaklubben - presentasjon elever og foreldre på Landås skole](./filer/presentasjon_for_elever_og_foreldre_paa_landaas_skole.pdf)
 
+
+
 <p align="center">
-_Denne nettsiden er under utvikling_
+<em>Denne nettsiden er under utvikling</em>
 </p>
