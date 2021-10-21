@@ -1,6 +1,6 @@
 ## Klimaklubben.no
 
-![Klimaklubben logo](./filer/logo.png)
+<img src="./filer/logo.png" alt="logo" width="100" height="100">
 
 #### Barnas nøkkel til en grønn fremtid! 
 
