@@ -28,4 +28,4 @@
 <em>Denne nettsiden er under utvikling</em>
 </p>
 
-<img src="./filer/baerekraftige_liv_logo.png" alt="baerekraftige_liv_logo">
+<img src="./filer/baerekraftige_liv_logo.png" alt="baerekraftige_liv_logo" width="500">
