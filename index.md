@@ -21,6 +21,7 @@
 #### Media:
 
 [Klimaklubben på God morgen Norge på TV 2](https://www.tv2.no/v/1694832/)
+[FRAMTIDA junior - Elevane dyrkar i matskogen for å passa på miljøet](https://framtidajunior.no/2021/10/24/elevane-dyrkar-matskogen-passa-pa-miljoet-det-er-som-skal-arva-jorda/)
 
 <br>
 <br>
@@ -28,4 +29,8 @@
 <em>Denne nettsiden er under utvikling</em>
 </p>
 
+#### I samarbeid med:
 <img src="./filer/baerekraftige_liv_logo.png" alt="baerekraftige_liv_logo" width="500">
+
+#### Støttet av:
+<img src="./filer/bergen_kommune.png" alt="bergen_kommune_logo" width="500">
