@@ -33,4 +33,4 @@
 <img src="./filer/baerekraftige_liv_logo.png" alt="baerekraftige_liv_logo" width="500">
 
 #### Støttet av:
-<img src="./filer/bergen_kommune.png" alt="bergen_kommune_logo" width="500">
+<img src="./filer/bergen_kommune.png" alt="bergen_kommune_logo" width="250">
