@@ -35,3 +35,5 @@
 
 #### Støttet av:
 <img src="./filer/bergen_kommune.png" alt="bergen_kommune_logo" width="250">
+
+#### Kontakt: klimaklubben@barekraftigeliv.no
