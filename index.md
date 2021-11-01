@@ -13,6 +13,11 @@
 [Klimaklubben - presentasjon elever og foreldre på Landås skole](./filer/presentasjon_for_elever_og_foreldre_paa_landaas_skole.pdf)
 
 
+#### Undersøkelser:
+
+[Hva gjør du for klima og miljø? Ønsker du å bli med i Klimarådet?](https://forms.gle/MLoFoMS2fr1WmbUk9)
+
+
 #### Aktiviteter:
 
 [Lag et pinnsvinhus](./filer/Pinnsvinhus.pdf)
@@ -35,5 +40,6 @@
 
 #### Støttet av:
 <img src="./filer/bergen_kommune.png" alt="bergen_kommune_logo" width="250">
+
 
 #### Kontakt: klimaklubben@barekraftigeliv.no
